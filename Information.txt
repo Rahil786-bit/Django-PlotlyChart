@@ -10,4 +10,4 @@ Make sure create a superuser first
 
 Then add more Users 
 Then add PlotChart data.
-and refresh the home page.
+and refresh the home page: http://127.0.0.1:8000
