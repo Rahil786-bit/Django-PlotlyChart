@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h3>Plotly Chart!</h3>
+   {% autoescape off %}
+   {{plot_div}}
+   {% endautoescape %}
+{% endblock content %}
