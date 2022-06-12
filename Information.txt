@@ -1,0 +1,13 @@
+This is one simple Chart representation Project from Django database.
+packages used:
+pandas 
+plotly
+
+To see the Project :
+Make sure create a superuser first
+-- python manage.py createsuperuser
+--then login to http://127.0.0.1:8000/admin
+
+Then add more Users 
+Then add PlotChart data.
+and refresh the home page.
